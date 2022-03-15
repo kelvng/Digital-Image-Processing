@@ -172,7 +172,7 @@
 
 ### Đề xuất một phương pháp giải quyết cho bài toán lấy ngưỡng bị sai như hình dưới đây (ảnh gốc bên trái, ảnh sau lấy ngưỡng bên phải)
 
-[https://lh6.googleusercontent.com/ggLTpnBMmUDyrhi9RWNpvd3KMk5nnVxN74ha6wxj-RlSM1tR3oLGuwB_aQt-pX1n_7GgXIOieeYtxBLBlaGwL2cliw7hUIX3IV-q3lbHA-SW68hWF4lb8XLTfbAMewVAtQ=w520](https://lh6.googleusercontent.com/ggLTpnBMmUDyrhi9RWNpvd3KMk5nnVxN74ha6wxj-RlSM1tR3oLGuwB_aQt-pX1n_7GgXIOieeYtxBLBlaGwL2cliw7hUIX3IV-q3lbHA-SW68hWF4lb8XLTfbAMewVAtQ=w520)
+![https://lh6.googleusercontent.com/ggLTpnBMmUDyrhi9RWNpvd3KMk5nnVxN74ha6wxj-RlSM1tR3oLGuwB_aQt-pX1n_7GgXIOieeYtxBLBlaGwL2cliw7hUIX3IV-q3lbHA-SW68hWF4lb8XLTfbAMewVAtQ=w520](https://lh6.googleusercontent.com/ggLTpnBMmUDyrhi9RWNpvd3KMk5nnVxN74ha6wxj-RlSM1tR3oLGuwB_aQt-pX1n_7GgXIOieeYtxBLBlaGwL2cliw7hUIX3IV-q3lbHA-SW68hWF4lb8XLTfbAMewVAtQ=w520)
 
 - [ ]  Sử dụng phương pháp Otsu
 - [x]  Sử dụng phương pháp lấy ngưỡng thích ứng
@@ -181,7 +181,7 @@
 
 ### Đề xuất một phương pháp để lấp đầy phần màu đen trong vùng gương mặt màu trắng như hình dưới đây để được hình giống như hình bên phải nhất?
 
-[https://lh4.googleusercontent.com/X141QCubgKbX5IMAQUUpbnjM6oLd5S0bKkBK1H5a6llWbE29ygjwedVZsGdj30UtTQ8tp6wjxX7cCFGUyOVZdkG7vtWbSSz-EQc0CFhVT8e_ZhLS5Idymy6TOvFAejUH9Q=w740](https://lh4.googleusercontent.com/X141QCubgKbX5IMAQUUpbnjM6oLd5S0bKkBK1H5a6llWbE29ygjwedVZsGdj30UtTQ8tp6wjxX7cCFGUyOVZdkG7vtWbSSz-EQc0CFhVT8e_ZhLS5Idymy6TOvFAejUH9Q=w740)
+![https://lh4.googleusercontent.com/X141QCubgKbX5IMAQUUpbnjM6oLd5S0bKkBK1H5a6llWbE29ygjwedVZsGdj30UtTQ8tp6wjxX7cCFGUyOVZdkG7vtWbSSz-EQc0CFhVT8e_ZhLS5Idymy6TOvFAejUH9Q=w740](https://lh4.googleusercontent.com/X141QCubgKbX5IMAQUUpbnjM6oLd5S0bKkBK1H5a6llWbE29ygjwedVZsGdj30UtTQ8tp6wjxX7cCFGUyOVZdkG7vtWbSSz-EQc0CFhVT8e_ZhLS5Idymy6TOvFAejUH9Q=w740)
 
 - [ ]  Dilation
 - [ ]  Erosion
@@ -190,7 +190,7 @@
 
 ### Cho ảnh nhị phân bên trái với 3 pixel (đen=sáng) như ảnh bên trái. Bảng T là mảng tích lũy (accumulator array) với rho và theta được chia sẵn. Hãy cho biết ô nào có số phiếu cao nhất theo thuật toán Hough Transform phát hiện đường thẳng? (ghi rho và theta)
 
-[https://lh5.googleusercontent.com/0_pW0sofEquSdzDL8RJOJh2ylG7AT4bdrCctpIOtShR6ns5UcnEMymaUV6g3eXb4Q0SaDwGFcE0U_SGPvGwUfY5mLZ-nKTs_3PcoUBxcG7wz5etFtKgrOqipsIJt1ace7A=w740](https://lh5.googleusercontent.com/0_pW0sofEquSdzDL8RJOJh2ylG7AT4bdrCctpIOtShR6ns5UcnEMymaUV6g3eXb4Q0SaDwGFcE0U_SGPvGwUfY5mLZ-nKTs_3PcoUBxcG7wz5etFtKgrOqipsIJt1ace7A=w740)
+![https://lh5.googleusercontent.com/0_pW0sofEquSdzDL8RJOJh2ylG7AT4bdrCctpIOtShR6ns5UcnEMymaUV6g3eXb4Q0SaDwGFcE0U_SGPvGwUfY5mLZ-nKTs_3PcoUBxcG7wz5etFtKgrOqipsIJt1ace7A=w740](https://lh5.googleusercontent.com/0_pW0sofEquSdzDL8RJOJh2ylG7AT4bdrCctpIOtShR6ns5UcnEMymaUV6g3eXb4Q0SaDwGFcE0U_SGPvGwUfY5mLZ-nKTs_3PcoUBxcG7wz5etFtKgrOqipsIJt1ace7A=w740)
 
 - [ ]  (theta=pi/4, rho=2)
 - [ ]  (theta=pi/4, rho=2sqrt(2))
@@ -206,7 +206,7 @@
 
 ### Thực hiện tích chập (convolution) kernel bên phải lên ảnh bên trái tại vị trí số 6 (dòng 2, cột 2), kết quả trả về là: (không cần flip kernel)
 
-[https://lh3.googleusercontent.com/AiBMU_76CaUx2uyeRULnbzLrRQNIVC946jpbkgZvXtAY_maWbu6DnmoAV657h4Zff9E9zS_HO4SMhsIc1EToqj19IoGGbZMjudGMWQoHprBdJGTIgxoVECW0VIdl08Tmlw=w430](https://lh3.googleusercontent.com/AiBMU_76CaUx2uyeRULnbzLrRQNIVC946jpbkgZvXtAY_maWbu6DnmoAV657h4Zff9E9zS_HO4SMhsIc1EToqj19IoGGbZMjudGMWQoHprBdJGTIgxoVECW0VIdl08Tmlw=w430)
+![https://lh3.googleusercontent.com/AiBMU_76CaUx2uyeRULnbzLrRQNIVC946jpbkgZvXtAY_maWbu6DnmoAV657h4Zff9E9zS_HO4SMhsIc1EToqj19IoGGbZMjudGMWQoHprBdJGTIgxoVECW0VIdl08Tmlw=w430](https://lh3.googleusercontent.com/AiBMU_76CaUx2uyeRULnbzLrRQNIVC946jpbkgZvXtAY_maWbu6DnmoAV657h4Zff9E9zS_HO4SMhsIc1EToqj19IoGGbZMjudGMWQoHprBdJGTIgxoVECW0VIdl08Tmlw=w430)
 
 - [ ]  2
 - [ ]  4
