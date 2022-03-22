@@ -10,9 +10,16 @@
 ### 2. Ảnh xám (grayscale image) sử dụng bao nhiêu bit/byte để biểu diễn mức xám?
 
 - [ ]  1 bit
-- [ ]  1 byte
+- [x]  1 byte
 - [ ]  255 bit
 - [ ]  255 byte
+
+### 2.1 Ảnh xám (grayscale image) sử dụng giá trị nào để biểu diễn mức xám?
+
+- [ ]  2 giá trị gồm 0=màu đen, 255=trắng
+- [x]  256 mức xám
+- [ ]  1 bit
+- [ ]  255 mức xám
 
 ### 3. Một không gian màu (color space) mô tả thông tin gì?
 
@@ -32,12 +39,12 @@
 
 - [ ]  RGB
 - [ ]  HSV
-- [ ]  Lab
+- [x]  Lab
 - [ ]  CYMK
 
 ### 6. Hệ màu HSV được sử dụng thay cho RGB vì:
 
-- [ ]  Dễ lựa chọn màu theo cách của con người
+- [x]  Dễ lựa chọn màu theo cách của con người
 - [ ]  So sánh màu chính xác hơn
 - [ ]  Tiết kiệm băng thông hơn
 - [ ]  Tất cả đều đúng
@@ -66,7 +73,7 @@
 ### 10. Cân bằng historgram (histogram equalization) là kỹ thuật dùng để:
 
 - [ ]  Điều chỉnh độ sáng của ảnh
-- [ ]  Điều chỉnh độ tương phản của ảnh
+- [x]  Điều chỉnh độ tương phản của ảnh
 - [ ]  Giảm nhiễu trong ảnh
 - [ ]  Thống kê điểm ảnh
 
@@ -82,7 +89,7 @@
 - [ ]  Kích thước ảnh
 - [ ]  Bộ lọc (filter)
 - [ ]  Độ phân giải
-- [ ]  Phần tử cấu trúc
+- [x]  Phần tử cấu trúc
 
 ### 13. Lĩnh vực nghiên cứu thuật toán để vẽ một đường thẳng ra màn hình máy tính?
 
@@ -94,7 +101,7 @@
 ### 14. Nén ảnh thuộc lĩnh vực nào?
 
 - [x]  Xử lý ảnh số
-- [x]  Thị giác máy tính
+- [ ]  Thị giác máy tính
 - [ ]  Đồ họa máy tính
 - [ ]  Phân tích dữ liệu
 
@@ -116,13 +123,13 @@
 
 - [ ]  Sự khác biệt về mức xám tại các vùng của ảnh
 - [ ]  Sự khác biệt về khoảng cách giữa các điểm ảnh giống nhau
-- [ ]  Sự khác biệt về mức xám tại mỗi điểm
+- [x]  Sự khác biệt về mức xám tại mỗi điểm
 - [ ]  Sự khác biệt về đạo hàm cấp 1 của điểm ảnh
 
 ### 18. Ý nghĩa của đạo hàm cấp 1 được sử dụng trong phát hiện cạnh (edge detection)
 
 - [ ]  Xác định vị trí tương quan giữa các điểm ảnh
-- [ ]  Đo độ biến thiên cường độ sáng tại mỗi điểm
+- [x]  Đo độ biến thiên cường độ sáng tại mỗi điểm
 - [ ]  Xác định góc của cạnh tại mỗi điểm
 - [ ]  Tất cả đều đúng
 
@@ -130,13 +137,13 @@
 
 - [ ]  Đạo hàm cấp 1
 - [ ]  Đạo hàm cấp 2
-- [ ]  Đạo hàm cấp 1 hoặc Đạo hàm cấp 2
+- [x]  Đạo hàm cấp 1 hoặc Đạo hàm cấp 2
 - [ ]  Đạo hàm cấp 1 và Đạo hàm cấp 2
 
 ### 20. Tại sao cần khử nhiễu ảnh trước khi thực hiện phát hiện cạnh?
 
 - [ ]  Phép tích chập (convolution) ảnh hưởng bởi nhiễu
-- [ ]  Kết quả đạo hàm bị ảnh hưởng bởi nhiễu
+- [x]  Kết quả đạo hàm bị ảnh hưởng bởi nhiễu
 - [ ]  Dễ phát hiện cạnh trên ảnh đã blurred
 - [ ]  Tất cả đều đúng
 
@@ -149,8 +156,8 @@
 
 ### 22. Ưu điểm của việc sử dụng Hough Transform
 
-- [ ]  Giới hạn được miền giá trị của không gian tham số
-- [x]  Biểu diễn đường thẳng đơn giản hơn
+- [x]  Giới hạn được miền giá trị của không gian tham số
+- [ ]  Biểu diễn đường thẳng đơn giản hơn
 - [ ]  Có thể biểu diễn mọi đường cong
 - [ ]  Tất cả đều đúng
 
@@ -158,7 +165,7 @@
 
 - [ ]  Các pixel thuộc đường thẳng phải liên tục
 - [ ]  Số lượng pixel thuộc đường thẳng phải lớn hơn một ngưỡng
-- [ ]  Các pixel thuộc đường thẳng phải có mức xám tương tự
+- [x]  Các pixel thuộc đường thẳng phải có mức xám tương tự
 - [ ]  Tất cả đều đúng
 
 ### 24. Lấy ngưỡng ảnh (thresholding) là kỹ thuật
@@ -184,14 +191,14 @@
 - [ ]  Dilation
 - [ ]  Erosion
 - [ ]  Opening
-- [ ]  Closing
+- [x]  Closing
 
 ### 27. Cho ảnh nhị phân bên trái với 3 pixel (đen=sáng) như ảnh bên trái. Bảng T là mảng tích lũy (accumulator array) với rho và theta được chia sẵn. Hãy cho biết ô nào có số phiếu cao nhất theo thuật toán Hough Transform phát hiện đường thẳng? (ghi rho và theta)
 
 ![https://lh5.googleusercontent.com/0_pW0sofEquSdzDL8RJOJh2ylG7AT4bdrCctpIOtShR6ns5UcnEMymaUV6g3eXb4Q0SaDwGFcE0U_SGPvGwUfY5mLZ-nKTs_3PcoUBxcG7wz5etFtKgrOqipsIJt1ace7A=w740](https://lh5.googleusercontent.com/0_pW0sofEquSdzDL8RJOJh2ylG7AT4bdrCctpIOtShR6ns5UcnEMymaUV6g3eXb4Q0SaDwGFcE0U_SGPvGwUfY5mLZ-nKTs_3PcoUBxcG7wz5etFtKgrOqipsIJt1ace7A=w740)
 
 - [ ]  (theta=pi/4, rho=2)
-- [ ]  (theta=pi/4, rho=2sqrt(2))
+- [x]  (theta=pi/4, rho=2sqrt(2))
 - [ ]  (theta=3*pi/4, rho=2)
 - [ ]  (theta=3*pi/4, rho=2sqrt(2))
 
